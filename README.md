@@ -44,3 +44,9 @@ Clear Path (green)
 
 Obstacle Detected (red)
 
+Author
+
+Kaushal Jammula
+
+Graduate | Former Vice President @Aprameya | Entrepreneur | Focused - Automotive Systems Specialist | Space Tech Enthusiast | Researcher | Emerging Tech Innovator| Engineering Beyond Limits
+
